@@ -47,15 +47,14 @@
 Kushagra-Bajpei@github:~$ ./welcome.sh
 ```
 
-```markdown
-👋 I love building, breaking, and learning how things work.  
-💻 Exploring backend, security, and cloud technologies.  
-🚀 Currently experimenting with Next.js and DevOps tools.  
-🛠️ Comfortable with JavaScript, TypeScript, Node.js, and databases.  
-🎧 Coding sessions powered by good music.  
-🧩 Big fan of solving complex problems and system design challenges.  
-🌍 Always learning, always improving, always curious.  
-🤝 Let’s connect and build something awesome together!
+```markdown 
+👋 Hi, I’m Kushagra Bajpei, passionate about coding and exploring new technologies.
+💻 Exploring web development with Reactjs, JavaScript, Node.js, Express.js, and MongoDB.
+🚀 Currently learning and experimenting with Reactjs and modern web tools.
+🛠️ Comfortable working with C, C++, Python, HTML, CSS, Javascript, Git/GitHub, and MongoDB.
+🎧 Coding sessions powered by good music. 
+🌍 Always curious, always improving, and eager to build impactful projects.
+🤝 Open to collaborations and exciting opportunities—let’s connect!
 ​‎ ‎ ‎ 
 ```
 
