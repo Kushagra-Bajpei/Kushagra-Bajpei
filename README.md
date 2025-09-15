@@ -131,12 +131,12 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/main/assets/divider.gif" width="100%">
 
   
   ![](https://count.getloli.com/get/@Kushagra-Bajpei.github.readme)
