@@ -5,7 +5,7 @@
 <!--   my-icons -->
 <p align="center">
 <a href="mailto:kushagrabajpeimbic@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href=" https://x.com/KushagraBajpei?t=tWDdpR5ZNYS1mOCnA4LMNw&s=08" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Kushagra-Bajpei" height="27" /></a>
+<a href="https://x.com/KushagraBajpei?t=tWDdpR5ZNYS1mOCnA4LMNw&s=08" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Kushagra-Bajpei" height="27" /></a>
 <a href="https://www.linkedin.com/in/kushagra-bajpei-248583316" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-kumar-747009311" height="27" /></a>
 <a href="https://stackoverflow.com/users/27244881/kushagra-bajpei" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
 <a href="https://www.instagram.com/kushagra.04?igsh=MW8xMGZ1dGNqYnBjbA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_a_n_s_hh___" height="27" /></a>
