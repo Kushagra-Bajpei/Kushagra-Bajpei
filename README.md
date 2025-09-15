@@ -128,7 +128,16 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 
 <div align="center">
 <br>
-![Snake animation](https://github.com/Kushagra-Bajpei/Kushagra-Bajpei/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/VINAY-KOTHARI-10/VINAY-KOTHARI-10/main/assets/divider.gif" width="100%">
+
   
   ![](https://count.getloli.com/get/@Kushagra-Bajpei.github.readme)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
