@@ -128,6 +128,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 
 <div align="center">
 <br>
+![snake gif](https://github.com/Kushagra-Bajpei/Kushagra-Bajpei/blob/output/github-contribution-grid-snake.svg)
   
   ![](https://count.getloli.com/get/@Kushagra-Bajpei.github.readme)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
