@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/27244881/kushagra-bajpei" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
 <a href="https://www.instagram.com/kushagra.04?igsh=MW8xMGZ1dGNqYnBjbA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_a_n_s_hh___" height="27" /></a>
 <a href="https://discord.com/users/Kushagra-Bajpei" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="27" /></a>
-<a href="https://auth.geeksforgeeks.org/user/Kushagra-Bajpei" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Kushagra-Bajpei" height="27" /></a>
+<a href="https://www.geeksforgeeks.org/404.html/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Kushagra-Bajpei" height="27" /></a>
 </p>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
