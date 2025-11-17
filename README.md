@@ -49,9 +49,9 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 
 ```markdown 
 👋 Hi, I’m Kushagra Bajpei, passionate about coding and exploring new technologies.
-💻 Exploring web development with Reactjs, JavaScript, Node.js, Express.js, and MongoDB.
+💻 Exploring web development with Reactjs, JavaScript, Typescript, Node.js, Express.js, and MongoDB.
 🚀 Currently learning and experimenting with Reactjs and modern web tools.
-🛠️ Comfortable working with C, C++, Python, HTML, CSS, Javascript, Git/GitHub, and MongoDB.
+🛠️ Comfortable working with C, C++, Python, HTML, CSS, Javascript, Typescript, Git/GitHub, and MongoDB.
 🎧 Coding sessions powered by good music. 
 🌍 Always curious, always improving, and eager to build impactful projects.
 🤝 Open to collaborations and exciting opportunities—let’s connect!
