@@ -31,7 +31,7 @@
 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4)](https://github.com/Kushagra-Bajpei) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=true&column=6&v=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=true&column=6&v=3)
 
 
 
