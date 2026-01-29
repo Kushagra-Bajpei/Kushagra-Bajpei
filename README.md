@@ -26,6 +26,8 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <a href="https://github-trophies.vercel.app/?username=Kushagra-Bajpei" target="_blank">
+<img src="https://github-trophies.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
+</a>
 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4)](https://github.com/Kushagra-Bajpei)
