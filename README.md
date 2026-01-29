@@ -100,6 +100,8 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" height="40">
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="27"alt="gc">
 <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="30"/>
 </div>
 <br>
 
