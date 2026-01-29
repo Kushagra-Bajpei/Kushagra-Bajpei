@@ -94,6 +94,10 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="27">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28">
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="27">
+<img src="https://img.shields.io/badge/kaggle-000000.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" height="28">
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40">
+<img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="40">
+<img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" height="40">
 </div>
 <br>
 
