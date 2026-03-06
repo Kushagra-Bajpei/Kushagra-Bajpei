@@ -24,18 +24,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kushagra-Bajpei&label=Profile%20views&color=0e75b6&style=flat" alt="Kushagra-Bajpei" height="30" width="180px"/> </p>
 
 ### 🏆 GitHub Trophies
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
 <a href="https://github-trophies.vercel.app/?username=Kushagra-Bajpei" target="_blank">
 
   <img src="https://github-trophies.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
-</a>  -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<a href="https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=8" />
 </a> 
+
 
 <br>
 
