@@ -28,7 +28,7 @@
 
 <a href="https://github-trophies.vercel.app/?username=Kushagra-Bajpei" target="_blank">
 
-  <img src="https://github-trophies.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequests,Repositories,Followers,Issues&row=1&column=9">
+  <img src="https://github-trophies.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
 </a> 
 
 
