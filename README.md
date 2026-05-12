@@ -116,12 +116,9 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
   <tbody>
     <tr>
         <th>
-          <!-- <a href="https://nirzak-streak-stats.vercel.app/?user=Kushagra-Bajpei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
-            <img src="https://nirzak-streak-stats.vercel.app/?user=Kushagra-Bajpei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
-          </a> -->
           <a href="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula">
-  <img src="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula" alt="GitHub Streak Stats"/>
-</a>
+          <img src="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula" alt="GitHub Streak Stats"/>
+          </a>
         </th> 
         <th>
           <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-Bajpei&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400">
