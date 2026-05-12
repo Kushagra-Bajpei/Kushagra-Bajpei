@@ -153,39 +153,6 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 <br>
 
 
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-
-<div align="center">
-
-<a href="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula">
-  <img src="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula" alt="GitHub Streak Stats"/>
-</a>
-
-<br><br>
-
-<a href="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-</a>
-
-<br><br>
-
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra-Bajpei&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra-Bajpei&theme=dracula" alt="Profile Summary"/>
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Bajpei&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
-
-</div>
-
-
-
-
-
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
