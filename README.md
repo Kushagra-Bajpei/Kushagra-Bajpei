@@ -124,7 +124,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
           <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-Bajpei&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-Bajpei&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400"/> -->
           <!-- </a> -->
-  <a href="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&theme=dracula">
+ <a href="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </a>
         </th>
