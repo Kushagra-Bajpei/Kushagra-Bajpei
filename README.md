@@ -152,6 +152,18 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 <div align="center">
 <br>
 
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
+
+<br> -->
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph.svg"> 
+</picture>
+<!--### 📈 3d-Contribution Graph: -->
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw"> -->
+<div align="center">
+  <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Metrics" width="100%">
+</div>
+<br>
 
 ### 🐍 Contribution Snake
 <div align="center">
